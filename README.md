@@ -84,11 +84,11 @@ The Service Level Agreement (SLA) Plans establish the timeframe for the help des
 <p>
 The purpose of Help Topics is to assist users in organizing their tickets. We plan to establish four distinct categories (Business Critical Outage, Personal Computer Issues, Equipment Issues, and Password Reset) in addition to the default topics, from which end users can choose when submitting a problem report.
 </p>
-<p>
-<img src="https://github.com/tsiensesvendomingos/post-install-config/assets/138411730/3b8957e1-a6b8-42b7-b4be-df78b2111692" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>  
+<img src="https://github.com/tsiensesvendomingos/post-install-config/assets/138411730/507539db-6315-4d3a-a18a-acbdb367242c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/tsiensesvendomingos/post-install-config/assets/138411730/507539db-6315-4d3a-a18a-acbdb367242c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/tsiensesvendomingos/post-install-config/assets/138411730/3b8957e1-a6b8-42b7-b4be-df78b2111692" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <br />
